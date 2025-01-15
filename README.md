@@ -1,4 +1,4 @@
-<h1 align="center">HOME SECURITY SYSTEM</h1>
+<h1 align="center">Facial Recognition Security System</h1>
 
 <p align="center">
  <a target="_blank" href="https://drive.google.com/file/d/1mwXoAp8VMO9XeV4o94l6xOgLkuQERjaD/view?usp=sharing">Video Demo</a> 
@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-* Face Recognition Security System project built during Microsoft Engage 2022 program. 
+
 * This programme processes frames from live video and compares detected faces against a set of known face encodings. 
 * If there is no match found, the person is considered to be an intruder and an email is sent with an image of the intruder by invoking a shell script..
 
